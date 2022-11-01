@@ -1,0 +1,1 @@
+print("how the fuck do u use this language")
