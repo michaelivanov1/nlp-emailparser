@@ -1,4 +1,0 @@
-tom.brady@gmail.com,VERB,VB,compound,compound
-bjohnson@sympatico.ca,NOUN,NN,advcl,adverbial clause modifier
-andy.average@gmail.com,NOUN,NNS,compound,compound
-john.public@rogers.com,NOUN,NNS,compound,compound
