@@ -11,3 +11,7 @@ john.public@rogers.com
 I’ve finally decided on $11,200 with Microsoft. Always liked Windows.
 Regards, John
 <<End>>
+michael.topper@test.com
+I will do $20,100 with Facebook. I love that app.
+Regards, Michael
+<<End>>

@@ -140,8 +140,38 @@ John,PROPN,NNP,nmod,modifier of nominal
 ,SPACE,_SP,dep,unclassified dependent
 <,X,XX,punct,punctuation
 <,X,XX,dep,unclassified dependent
-End,NOUN,NN,nmod,modifier of nominal
->,X,XX,nmod,modifier of nominal
+End,NOUN,NN,appos,appositional modifier
+>,X,XX,punct,punctuation
 >,X,ADD,appos,appositional modifier
+
+,SPACE,_SP,dep,unclassified dependent
+michael.topper@test.com,X,ADD,appos,appositional modifier
+
+,SPACE,_SP,dep,unclassified dependent
+I,PRON,PRP,nsubj,nominal subject
+will,AUX,MD,aux,auxiliary
+do,VERB,VB,ccomp,clausal complement
+$,SYM,$,nmod,modifier of nominal
+20,100,NUM,CD,dobj,direct object
+with,ADP,IN,prep,prepositional modifier
+Facebook,PROPN,NNP,pobj,object of preposition
+.,PUNCT,.,punct,punctuation
+I,PRON,PRP,nsubj,nominal subject
+love,VERB,VBP,ROOT,root
+that,DET,DT,det,determiner
+app,NOUN,NN,dobj,direct object
+.,PUNCT,.,punct,punctuation
+
+,SPACE,_SP,dep,unclassified dependent
+Regards,PROPN,NNP,dobj,direct object
+,,PUNCT,,,punct,punctuation
+Michael,PROPN,NNP,conj,conjunct
+
+,SPACE,_SP,dep,unclassified dependent
+<,X,ADD,punct,punctuation
+<,X,XX,dep,unclassified dependent
+End,NOUN,NN,dobj,direct object
+>,X,XX,nmod,modifier of nominal
+>,X,ADD,npadvmod,noun phrase as adverbial modifier
 
 ,SPACE,_SP,dep,unclassified dependent

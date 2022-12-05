@@ -1,5 +1,4 @@
-# Group project for INFO-3142
-# Members: Michael Ivanov, Thomas Pollard, Olivia Stemp
+# NLP & spacy
 
 import spacy
 
